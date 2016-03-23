@@ -10,6 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["mikey.utley@gmail.com", "matthew.g.hadley@gmail.com"]
 
   spec.summary       = %q{Example gem for a urug presentation.}
+  spec.description   = %q{}
   spec.homepage      = ""
   spec.license       = "MIT"
 
