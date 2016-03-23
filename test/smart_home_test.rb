@@ -5,7 +5,7 @@ class SmartHomeTest < Minitest::Test
     refute_nil ::SmartHome::VERSION
   end
 
-  def test_it_does_something_useful
-    assert false
+  def test_exists
+    assert SmartHome::Light
   end
 end
